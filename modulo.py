@@ -7,12 +7,12 @@ def exibir_menu():
     ano = date.today().year
 
     print(f'\n{'#' * 20} PyBank | {dia}/{mes}/{ano} {'#' * 20}\n')
-    print("1. Cadastrar usuário")
-    print("2. Deletar usuário")
-    print("3. Consultar saldo")
-    print("4. Depositar")
-    print("5. Sacar")
-    print("6. Sair")
+    print("1. Cadastrar usuário.")
+    print("2. Deletar usuário.")
+    print("3. Consultar saldo.")
+    print("4. Depositar.")
+    print("5. Sacar.")
+    print("6. Sair.")
 
 
 # Função para cadastrar um usuário

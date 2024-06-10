@@ -23,7 +23,7 @@ if __name__ == "__main__":
         elif opcao == '5':
             sacar(usuarios)
         elif opcao == '6':
-            print("Obrigado por usar nosso aplicativo!")
+            print("Obrigado por usar nosso aplicativo! Volte sempre.")
             break
         else:
             print("Opção inválida. Tente novamente.")
